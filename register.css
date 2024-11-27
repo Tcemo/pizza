@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border:solid 1px;
+    height:550px;
+    background-image:url(bg3.jpg);
+    background-repeat:no-repeat;
+    background-size:1370px 700px;
+}
+form{
+    margin-left:50px ;
+    width:400px;
+    padding-left: 20px;
+    margin-top: 100px;
+}
+label{
+    color: white;
+    font-size: 25px;
+    font-style: oblique;
+}
+h1{
+    color:red;
+    font-size: 50px;
+    font-style: oblique;
+    text-align: center;
+}
+input{
+    height:30px;
+    width:250px;
+}
+button{
+    height: 40px;
+    width: 90px;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+
+}
+p{
+    color: gold;
+    font-size: 20px;
+    font-style: normal;
+}
+p a{
+    color: crimson;
+    font-size: 20px;
+    font-style: var(login);
+}
